@@ -6,7 +6,7 @@ criaCartao(
 
 criaCartao(
     'Flamengo',
-    'Quem é o maior 10?',
+    'Quem é o maior 10 do flamengo?',
     'Zico'
 )
 
